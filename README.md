@@ -88,9 +88,9 @@ This page provides an overview of the data-job market, including key metrics and
 
 📷 DASHBOARD SCREENSHOT — PAGE 1
 
-![Data Jobs Dashboard - Page 1](screenshots\MainDash.png)
+![Data Jobs Dashboard - Page 1](screenshots/MainDash.png)
 
-![Data Jobs Dashboardinteractive - Page 1](screenshots\MainDashInteract.png)
+![Data Jobs Dashboardinteractive - Page 1](screenshots/MainDashInteract.png)
 
 ---
 
@@ -117,8 +117,9 @@ Analysis includes areas such as:
 
 
 
-![Data Jobs Dashboard - Page 2](screenshots\DrilthruMain.png)
-![Data Jobs Dashboard interactive - Page 2](screenshots\DrillthruInteact.png)
+![Data Jobs Dashboard - Page 2](screenshots/DrilthruMain.png)
+
+![Data Jobs Dashboard interactive - Page 2](screenshots/DrillthruInteact.png)
 
 ## 🔍 Interactive Features
 
